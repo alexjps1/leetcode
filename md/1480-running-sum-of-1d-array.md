@@ -20,4 +20,4 @@ $$O(n)$$
 Linear time complexity because we perform one calculation for every element in `nums`.
 
 # Code
-[Click here to view code](../py/1480-running-sum-of-1d-array.py)
+[Click here to view code](../py/01480-running-sum-of-1d-array.py)

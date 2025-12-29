@@ -25,4 +25,4 @@ $$O(n)$$
 Does not create new nodes.
 
 # Code
-[Click here to view code](../py/382-linked-list-random-node.py)
+[Click here to view code](../py/0382-linked-list-random-node.py)

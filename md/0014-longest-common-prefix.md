@@ -27,4 +27,4 @@ $$O(n)$$
 Linear time complexity because we perform same number of calculations on each element of `strs` in the worst case.
 
 # Code
-[Click here to view code](../py/14-longest-common-prefix.py)
+[Click here to view code](../py/0014-longest-common-prefix.py)

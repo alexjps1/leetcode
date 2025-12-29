@@ -26,4 +26,4 @@ $$O(n)$$
 Linear time complexity because we perform the same number of calculations in each iteration of our loop.
 
 # Code
-[Click here to view code](../py/724-find-pivot-index.py)
+[Click here to view code](../py/0724-find-pivot-index.py)
